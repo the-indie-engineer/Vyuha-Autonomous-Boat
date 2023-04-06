@@ -19,3 +19,8 @@ which results in the movement of the thruster.
     <p>Figure1: Electrical Architecture Overview</p>
 </div>
 
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/109530150/230328060-b0456c55-90c7-4cc2-8205-c5742159619e.jpeg">
+    <p>Figure 2: Electrical Architecture Onboard</p>
+</div>
+
