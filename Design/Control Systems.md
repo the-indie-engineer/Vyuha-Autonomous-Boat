@@ -1,4 +1,4 @@
-<h2>Sensor Units:</h2>
+<h3>Sensor Units:</h3>
 
 This team proposes the Pixhawk 2.4.8 autopilot with
 the rover configuration to control our boat. The boat has two
@@ -11,7 +11,7 @@ sensor like Global positioning system (GPS).
 
 ![image](https://user-images.githubusercontent.com/109530150/230266026-21f2f7e5-1972-4f6a-a54d-b174bbb2fb7a.png)
 
-Internal Sensor Unit (ISU)
+<h2>Internal Sensor Unit (ISU)</h2>
 
 Magnetometer is built and integrated into the main
 controller Pixhawk 2.4.8. By sensing the Earth’s magnetic Field,
@@ -22,12 +22,14 @@ in space and monitor the boat’s movement. By combining these
 sensors, a good navigation solution will be achieved to track the
 desired waypoint for the boat.
 
-External Sensor Unit (ISU)
+<h2>External Sensor Unit (ISU)</h2>
+
 Global Positioning System (GPS) used in this boat
 will allow the boat to acquire its latitude and longitude point in
 real-time.
 
-ASV Controller:
+<h3>ASV Controller:<h3>
+  
 ASV controller is a core of our software design. The
 Extended Kalman Filter (EKF) is used to estimate boat’s position,velocity, and angular orientation. By combining and fusing the
 data from ISU and ESU, EKF will produce the navigation
@@ -39,7 +41,7 @@ the boat may stay on the water at all times on the preferred path.
 
 ![image](https://user-images.githubusercontent.com/109530150/230266190-99f73034-3a85-4ebe-ba99-766232fe0108.png)
 
-Position and Attitude control:
+  <h2>Position and Attitude control:</h2>
 
 On the Block of Position and Attitude Control. The
 steering output for the ESC Motor will be determined by the L1
