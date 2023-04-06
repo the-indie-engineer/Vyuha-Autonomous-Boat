@@ -10,7 +10,7 @@ Accelerometer and Gyroscope. External sensor unit consists
 sensor like Global positioning system (GPS).
 
 ![image](https://user-images.githubusercontent.com/109530150/230266026-21f2f7e5-1972-4f6a-a54d-b174bbb2fb7a.png)
-Figure 1: Sensor Unit Overview
+<center>Figure 1: Sensor Unit Overview</center>
 
 <h2>Internal Sensor Unit (ISU)</h2>
 
@@ -29,7 +29,7 @@ Global Positioning System (GPS) used in this boat
 will allow the boat to acquire its latitude and longitude point in
 real-time.
 
-<h3>ASV Controller:<h3>
+<h3>ASV Controller:</h3>
   
 ASV controller is a core of our software design. The
 Extended Kalman Filter (EKF) is used to estimate boat’s position,velocity, and angular orientation. By combining and fusing the
