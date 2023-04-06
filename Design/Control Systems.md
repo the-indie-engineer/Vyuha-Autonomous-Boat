@@ -10,6 +10,7 @@ Accelerometer and Gyroscope. External sensor unit consists
 sensor like Global positioning system (GPS).
 
 ![image](https://user-images.githubusercontent.com/109530150/230266026-21f2f7e5-1972-4f6a-a54d-b174bbb2fb7a.png)
+Figure 1: Sensor Unit Overview
 
 <h2>Internal Sensor Unit (ISU)</h2>
 
@@ -40,7 +41,8 @@ be crucial for the PID controller in steering adjustment. So, that
 the boat may stay on the water at all times on the preferred path.
 
 ![image](https://user-images.githubusercontent.com/109530150/230266190-99f73034-3a85-4ebe-ba99-766232fe0108.png)
-
+  <h1 align center>Figure 2: Controller overview</h1>
+  
   <h2>Position and Attitude control:</h2>
 
 On the Block of Position and Attitude Control. The
