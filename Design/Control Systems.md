@@ -43,7 +43,7 @@ the boat may stay on the water at all times on the preferred path.
 ![image](https://user-images.githubusercontent.com/109530150/230266190-99f73034-3a85-4ebe-ba99-766232fe0108.png)
   <h1 align center>Figure 2: Controller overview</h1>
   
-  <h2>Position and Attitude control:</h2>
+  <center>Position and Attitude control:</center>
 
 On the Block of Position and Attitude Control. The
 steering output for the ESC Motor will be determined by the L1
