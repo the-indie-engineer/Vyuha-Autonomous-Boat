@@ -10,7 +10,7 @@ Accelerometer and Gyroscope. External sensor unit consists
 sensor like Global positioning system (GPS).
 
 ![image](https://user-images.githubusercontent.com/109530150/230266026-21f2f7e5-1972-4f6a-a54d-b174bbb2fb7a.png)
-<center>Figure 1: Sensor Unit Overview</center>
+<p><center>Figure 1: Sensor Unit Overview</center></p>
 
 <h2>Internal Sensor Unit (ISU)</h2>
 
