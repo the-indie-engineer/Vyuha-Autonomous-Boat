@@ -1,4 +1,4 @@
-<h2>Sensor Units:<\h2>
+<h2>Sensor Units:</h2>
 
 This team proposes the Pixhawk 2.4.8 autopilot with
 the rover configuration to control our boat. The boat has two
